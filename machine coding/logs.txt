@@ -1,0 +1,6 @@
+[2025-05-08 11:54:51] [INFO] This is my first log with Id: ABC123
+[2025-05-08 11:54:51] [WARNING] This is a warning message: Something might be wrong
+[2025-05-08 11:54:51] [ERROR] I got the error: Connection failed
+[2025-05-08 11:54:51] [INFO] This info will be logged
+[2025-05-08 11:54:51] [WARNING] This warning will be logged
+[2025-05-08 11:54:51] [ERROR] This error will be logged

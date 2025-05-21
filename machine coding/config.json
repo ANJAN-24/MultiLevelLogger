@@ -1,0 +1,6 @@
+{
+    "min_log_level": "DEBUG",
+    "log_file_path": "logs.txt",
+    "use_text_file": true,
+    "use_network": false
+} 
